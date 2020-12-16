@@ -1,0 +1,17 @@
+---
+#L'id de votre item
+"353":
+  #Le message quand cliquer
+  message: "Tu a bien recut 500€"
+  #le montant a donner
+  montant: 500
+
+
+#tu en rajoute d'autre selon ton anvis
+"351:1":
+  #Le message quand cliquer
+  message: "Tu a bien recut 50000€"
+  #le montant a donner
+  montant: 50000
+
+...

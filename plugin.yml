@@ -1,0 +1,5 @@
+name: ItemMoneyReward
+main: Fan\Main
+api: [3.0.0]
+author: Fan
+version: 1.0
